@@ -1,0 +1,27 @@
+
+
+body
+{
+    padding-top: 50px;
+    background-size: 100%;
+    background-repeat: repeat-x;
+    background-color: #d2dee3;
+}
+
+.starter-template
+{
+    padding: 40px 15px;
+    text-align: center;
+}
+
+null
+{
+    width: 150px;
+}
+
+.btn
+{
+    width: 150px;
+    background-color: #cdeffb;
+}
+

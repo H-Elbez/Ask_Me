@@ -1,0 +1,45 @@
+
+
+body
+{
+    padding-top: 50px;
+    background-size: 100% 100 ;
+    background-image: url('http://127.0.0.1:40000/file:///home/timodz/Pictures/images/blurry-sunset-hd-desktop-wallpaper-high-definition-fullscreen.jpg');
+}
+
+.starter-template
+{
+    padding: 40px 15px;
+    text-align: center;
+}
+
+null
+{
+    width: 150px;
+}
+
+.btn
+{
+    width: 150px;
+    background-color: #18aa8d;
+    font-size: 18px;
+    color: white;
+    line-height: 150%;
+    border-radius: 3px 3px 0 0;
+    box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+.btn:hover
+{
+    background-color: white;
+    font-size: 18px;
+    color: #18aa8d;
+}
+
+#form
+{
+    background-color: rgba(255, 255, 255, 0.34);
+    border-radius: 15px;
+    padding: 20px 30px;
+}
+

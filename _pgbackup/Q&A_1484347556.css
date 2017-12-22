@@ -1,0 +1,84 @@
+
+
+body
+{
+    background-size: 100;
+    background-repeat: no-repeat;
+    background-color: #e0f5de;
+    color: #222222;
+}
+
+.starter-template
+{
+    text-align: center;
+    padding-top: 22px;
+    padding-bottom: 0px;
+}
+
+null
+{
+    width: 150px;
+}
+
+.btn
+{
+    background-color: #18aa46;
+    font-size: 18px;
+    color: white;
+    line-height: 150%;
+    box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 13px;
+    padding-right: 20px;
+    padding-left: 20px;
+    min-width: 80%;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.btn:hover
+{
+    background-color: white;
+    font-size: 18px;
+    color: #18aa8d;
+}
+
+#form
+{
+    background-color: rgba(157, 157, 157, 0.42);
+    border-radius: 15px;
+    padding: 20px 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 27px;
+}
+
+.image
+{
+}
+
+#pic
+{
+    border-radius: 10px;
+    background-image: url('picture/QWBSEn.png');
+}
+
+#name
+{
+    font-size: 18px;
+    border-radius: 12px;
+}
+
+#question
+{
+    font-size: 19px;
+    border-radius: 12px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.control-label
+{
+    width: 1000px;
+    min-width: 1000px;
+}
+

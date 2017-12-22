@@ -1,0 +1,154 @@
+
+
+/*
+ * Base structure
+ */
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+body
+{
+    padding-top: 10px;
+    background-color: #ffffff;
+}
+
+td
+{
+    align-content: center;
+}
+
+/*
+ * Global add-ons
+ */
+
+.sub-header
+{
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+    color: #2a1d1d;
+}
+
+/*
+ * Top navigation
+ * Hide default border to remove 1px line.
+ */
+
+.navbar-fixed-top
+{
+    border: 0;
+}
+
+/*
+ * Sidebar
+ */
+
+/* Hide for mobile, show later */
+
+.sidebar
+{
+    display: none;
+}
+
+@media (min-width: 200px)
+{
+    .sidebar
+    {
+        position: fixed;
+        top: 51px;
+        bottom: 0;
+        left: 0;
+        z-index: 1000;
+        display: block;
+        padding: 20px;
+        overflow-x: hidden;
+        overflow-y: auto;
+        background-color: #f5f5f5;
+        border-right: 1px solid #eee;
+    }
+}
+
+/*
+ * Main content
+ */
+
+.main
+{
+    padding: 20px;
+}
+
+@media (min-width: 200px)
+{
+    .main
+    {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+}
+
+.main .page-header
+{
+    margin-top: 0;
+}
+
+/*
+ * Placeholder dashboard ideas
+ */
+
+.placeholders
+{
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.placeholders h4
+{
+    margin-bottom: 0;
+}
+
+.placeholder
+{
+    margin-bottom: 20px;
+}
+
+.navbar
+{
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 4px;
+    padding-top: 7px;
+    background-color: rgba(213, 213, 213, 0.35);
+    border-radius: 9px;
+    margin-left: 13px;
+    margin-right: 13px;
+}
+
+#num
+{
+    color: rgba(10, 213, 10, 0.8);
+}
+
+#numN
+{
+    color: rgba(213, 10, 10, 0.8);
+}
+
+.btn
+{
+    min-width: 50px;
+    width: 100%;
+    font-size: 17px;
+    font-weight: 300;
+}
+
+#log
+{
+    border-radius: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #2e2a2a;
+}
+
+.col-md-6
+{
+}
+
