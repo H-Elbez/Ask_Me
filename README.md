@@ -21,8 +21,11 @@ this tool was used in a Virtual Linux server configured to redirect all trafic t
 
 Ask_Me is licensed under the <b> GNU General Public License v3.0 </b>
 
+<b> User Interface </b>
 
 ![Scheme](ScreenShots/S1.png)
+
+<b> Admin Interface </b>
 
 ![Scheme](ScreenShots/S2.png)
 
