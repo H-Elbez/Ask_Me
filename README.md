@@ -21,11 +21,10 @@ this tool was used in a Virtual Linux server configured to redirect all trafic t
 
 Developed using <b> Bootstrap </b> in Dec 2016
 
-<br>
+If you have any questions you can always contact me : <b> hammoudae@gmail.com </b>
 
 <b> Ask_Me </b> is licensed under the <b> GNU General Public License v3.0 </b>
 
-If you have any questions you can always contact me : <b> hammoudae@gmail.com </b>
 
 <br>
 
