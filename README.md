@@ -19,7 +19,11 @@ the only limitation is with the hardware infrastructure to use to be able to hun
 
 this tool was used in a Virtual Linux server configured to redirect all trafic to this web interface
 
-Ask_Me is licensed under the <b> GNU General Public License v3.0 </b>
+<br>
+
+<b> Ask_Me </b> is licensed under the <b> GNU General Public License v3.0 </b>
+
+<br>
 
 <b> User Interface </b>
 
