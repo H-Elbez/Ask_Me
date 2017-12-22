@@ -1,16 +1,15 @@
 # **Ask Me** #
 ## Web based question ask system ##  
 
-database will be added soon
 
-1- Update database informations in Php/db_connex.php
+1- Update database informations in <b> Php/db_connex.php </b>
 
 
 2- Create an ampty database named Q&A then import the database Q&A.sql file in your database to get the tables loaded
 
-3- Default admin user/pass : admin/askme
+3- Default admin user/pass : <b> admin/askme </b>
 
-4- to access admin panel you have to login in <your_local_or_remote_Server_adresse>/l.php
+4- to access admin panel you have to login in <b> <your_local_or_remote_Server_adresse>/l.php </b>
 
 To change logo : check in picture folder
 
